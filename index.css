@@ -65,7 +65,7 @@ body {
           flex-direction: column;
     }
       .row .image{
-        order -1;
+        order: -1;
       }
        .row .my-image{
         width: 60vw;
